@@ -1,0 +1,33 @@
+{"introduction": [{
+  "id": 1,
+  "img": "https://ds055uzetaobb.cloudfront.net/brioche/chapter/Warmup_Puzzles-T6zgwD-6TgfYy.png?width=280",
+  "chapterTitle": "Warmup Puzzles",
+  "details": "Get started with some logic warmups"
+}, {
+  "id": 2,
+  "img": "https://ds055uzetaobb.cloudfront.net/brioche/chapter/Truth-Seeking-c83EPA.png?width=280",
+  "chapterTitle": "Warmup Puzzles",
+  "details": "Who or what is telling the truth?"
+}, {
+  "id": 3,
+  "img": "https://ds055uzetaobb.cloudfront.net/brioche/chapter/Machine_Logic_and_Strategy-jrTuIK-2FIeRk.png?width=280",
+  "chapterTitle": "Warmup Puzzles",
+  "details": "Stetch the information you're given as far as it can go!"
+}],
+"theRationalDetective": [{
+  "id": 1,
+  "img": "https://ds055uzetaobb.cloudfront.net/brioche/chapter/Riddles_of_Order-uVO6uP.png?width=280",
+  "chapterTitle": "Riddles of Order",
+  "details": "What order do these racers finish in?"
+}, {
+  "id": 2,
+  "img": "https://ds055uzetaobb.cloudfront.net/brioche/chapter/Crafty_Counting-MyeNyB.png?width=280",
+  "chapterTitle": "Crafty Counting",
+  "details": "Learn strategies for counting that go far beyond just counting"
+}, {
+  "id": 3,
+  "img": "https://ds055uzetaobb.cloudfront.net/brioche/chapter/Mystery_Containers-jce39Z.png?width=280",
+  "chapterTitle": "Myestery Containers",
+  "details": "What's in each of these mystery boxes?"
+}]
+}

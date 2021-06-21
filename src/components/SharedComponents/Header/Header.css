@@ -1,0 +1,20 @@
+.btn-tranparent {
+  margin-left: 200px;
+  padding: 5px 80px;
+  color: #0C9EE6;
+  border: 1px solid #0C9EE6;
+  border-radius:5px;
+}
+
+.btn-blue {
+  margin-left: 10px;
+  padding: 5px 80px;;
+  color: white;
+  background-color: #0C9EE6;
+  border: none;
+  border-radius:5px;
+}
+
+button:hover {
+  font-weight: bolder;
+}

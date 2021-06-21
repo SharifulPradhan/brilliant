@@ -1,0 +1,31 @@
+.flexbox {
+  display: flex;
+  justify-content: space-between;
+
+  width: 100%;
+  max-width: 768px;
+  height: 25vh;
+
+  overflow: hidden;
+  padding: 15px;
+}
+
+.flexbox .board {
+  display: flex;
+  flex-direction: column;
+
+  width: 100%;
+  max-width: 250px;
+
+  background-attachment: #313131;
+  padding: 15px;
+
+  border: 2px dotted gray;
+}
+
+.flexbox .board .cards {
+  padding: 15px 25px;
+
+  cursor: pointer;
+  margin-bottom: 15px;
+}
