@@ -70,4 +70,4 @@ The page will reload if you make edits.<br />
 
 
 <h2 id="screenshots-browser-view">Instructions</h2>
-![picture alt](https://github.com/shariful-pradhan-hridoy/brilliant/blob/master/src/images/figure1.png)
+[figure1](https://github.com/shariful-pradhan-hridoy/brilliant/blob/master/src/images/figure1.png)
