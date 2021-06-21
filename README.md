@@ -13,7 +13,6 @@ This is Briliant web repository.
         <li><a href="#screenshots">Screenshots</a></li>
         <ul>
             <li><a href="#screenshots-browser-view">Browser View</a></li>
-            <li><a href="#screenshots-tablet-view">Tablet View</a></li>
             <li><a href="#screenshots-mobile-view">Mobile View</a></li>
         </ul>
     </ul>
@@ -71,4 +70,4 @@ The page will reload if you make edits.<br />
 
 
 <h2 id="screenshots-browser-view">Instructions</h2>
-![picture alt](https://github.com/shariful-pradhan-hridoy/travel-maniacs/blob/master/src/images/figure.png)
+![picture alt](https://github.com/shariful-pradhan-hridoy/travel-maniacs/blob/master/src/images/figure1.png)
