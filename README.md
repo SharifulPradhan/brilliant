@@ -69,5 +69,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 
 
-<h2 id="screenshots-browser-view">Instructions</h2>
-![Screenshots](https://github.com/shariful-pradhan-hridoy/brilliant/blob/master/src/images/figure1.png)
+<h3 id="screenshots-browser-view"> Browser View </h3>
+
+## What the website looks like:
+![screenshots](https://github.com/shariful-pradhan-hridoy/travel-maniacs/blob/master/src/images/travel-maniacs-ss1.png)
+![picture alt](https://github.com/shariful-pradhan-hridoy/travel-maniacs/blob/master/src/images/travel-maniacs-ss3.png)
