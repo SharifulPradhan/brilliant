@@ -7,9 +7,8 @@ const Board = (props) => {
 
     const cards = document.getElementById(cards_id);
     cards.style.display = 'block';
-    console.log("okay")
     e.target.appendChild(cards);
-
+    console.log(cards_id)
   }
 
   const dragOver = e => {

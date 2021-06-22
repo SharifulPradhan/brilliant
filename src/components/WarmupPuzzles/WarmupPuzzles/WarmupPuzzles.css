@@ -12,7 +12,6 @@
 
 .flexbox .board {
   display: flex;
-  flex-direction: column;
 
   width: 100%;
   max-width: 250px;
@@ -21,11 +20,11 @@
   padding: 15px;
 
   border: 2px dotted gray;
+  margin-left: 15px;
 }
 
 .flexbox .board .cards {
-  padding: 15px 25px;
-
+  padding: 15px;
+  
   cursor: pointer;
-  margin-bottom: 15px;
 }
