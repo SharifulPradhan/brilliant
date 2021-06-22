@@ -6,5 +6,14 @@
       { "boardID": "board-2", "cardsID": "kevin", "image": "https://ds055uzetaobb.cloudfront.net/uploads/zIwV9OLFiO-p2.png" },
       { "boardID": "board-3", "cardsID": "nicholas", "image": "https://ds055uzetaobb.cloudfront.net/uploads/A8r8kNZ762-p3.png" }
     ]
+  },
+  {
+    "questionID": ["younger", "middle", "older"],
+    "choices": ["younger", "middle", "older"]
+
+  },
+  {
+    "questionID": ["younger", "middle", "older"],
+    "choices": ["younger", "middle", "older"]
   }
 ]
